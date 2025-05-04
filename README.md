@@ -1,4 +1,4 @@
-# TGVCBot
+# acebots
 
 [![CI](https://github.com/ArnabXD/TGVCBot/actions/workflows/ci.yml/badge.svg)](https://github.com/ArnabXD/TGVCBot/actions/workflows/ci.yml)
 
